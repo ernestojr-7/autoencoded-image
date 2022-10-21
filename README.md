@@ -1,4 +1,4 @@
-# Experimento com Autoencoder em imagens de Raio-x de tórax
+# Experimento com Autoencoder em imagens de Raio-X de tórax
 
 Dataset: [COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database).
 
